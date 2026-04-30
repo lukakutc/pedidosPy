@@ -1,7 +1,8 @@
 #db
-*.gp.db
-*.gp.db-shm
-*.gp.db-wal
+*.db
+*.db-shm
+*.db-wal
+
 # Logs
 logs
 *.log
