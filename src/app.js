@@ -1,6 +1,7 @@
 const express = require('express')
 const db = require('./database')
 const app = express()
+const path = require('path')
 
 app.use(express.json()) // permite recibir JSON en los requests
 
@@ -33,6 +34,19 @@ app.get('/pedidos/:id/partes/:sector', (req, res) => {
   }
   res.json(parte)
 })
+
+
+
+//aca vamos a hacer la funcion de procesar el csv.
+
+
+
+
+
+
+
+
+
 
 
 
