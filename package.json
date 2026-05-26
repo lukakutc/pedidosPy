@@ -21,8 +21,10 @@
   "homepage": "https://github.com/lukakutc/pedidosPy#readme",
   "dependencies": {
     "better-sqlite3": "^12.9.0",
+    "csv": "^6.5.1",
     "dotenv": "^17.4.2",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"

@@ -10,7 +10,7 @@ CAR002	MATE COC.TARAGUI  25S SIN ENSOBRAR	Unidad	120,00	1.644,63	 	197.355,60	No
 CAR003	YERBA PLAYADITO 500G	Unidad	1.000,00	2.140,50	 	2.140.500,00	No seleccionado		0,00	
 ALM002	GALL.BAGLEY 400G SURTIDO 	Unidad	1.000,00	2.519,83	 	2.519.830,00	No seleccionado		0,00	
 ALM003	GALL TRAVIATA 324G	Unidad	700,00	1.446,20	 	1.012.340,00	No seleccionado		0,00	
-PRUEBA  PRUEBALMACEN    2   10  213213  NO  0,0            
+PRUEBA	PRUEBA	PRUEBA	700,00	782464,00	 	788888888,00	No seleccionado		0,00            
 `
 
 const lineas = csv.split('\n');
@@ -74,6 +74,8 @@ lineas.forEach((linea) => {
             "INSERT INTO articulo (id_articulo,descripcion,sector) VALUES (?, ?, ?)",
         ).run(arrArticulo[posicionCod],arrArticulo[posicionDesc],sector);
     }
+    //Claro aca el asunto es que no tengo el sector de articulo sino lo tengo creado, y esta interaccion va con el dato ingresado por frontend
+
 
 })
 

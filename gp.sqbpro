@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="gp.db" readonly="0" foreign_keys="0" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3755"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="sqlite_sequence" custom_title="0" dock_id="1" table="4,15:mainsqlite_sequence"/><table title="sqlite_sequence" custom_title="0" dock_id="2" table="4,15:mainsqlite_sequence"/><dock_state state="000000ff00000000fd00000001000000020000058100000398fc0100000001fc00000000000005810000012500fffffffa000000010100000002fb000000160064006f0063006b00420072006f00770073006500310100000000ffffffff0000011f00fffffffb000000160064006f0063006b00420072006f00770073006500320100000000ffffffff0000012500ffffff000002690000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="articulo_de_parte" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="68"/><column index="2" value="63"/><column index="3" value="44"/><column index="4" value="57"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">BEGIN TRANSACTION;
+
+CREATE TABLE &quot;sector&quot; (
+    &quot;sector&quot; TEXT,
+    PRIMARY KEY(&quot;sector&quot;)
+);
+
+CREATE TABLE &quot;cliente&quot; (
+    &quot;cuit&quot;         TEXT,
+    &quot;razon_social&quot; TEXT,
+    PRIMARY KEY(&quot;cuit&quot;)
+);
+
+CREATE TABLE &quot;usuario&quot; (
+    &quot;username&quot;  TEXT,
+    &quot;nombre&quot;    TEXT,
+    &quot;apellido&quot;  TEXT,
+    &quot;password&quot;  TEXT,
+    &quot;sector&quot;    TEXT,
+    PRIMARY KEY(&quot;username&quot;, &quot;sector&quot;),
+    FOREIGN KEY(&quot;sector&quot;) REFERENCES &quot;sector&quot;(&quot;sector&quot;)
+        ON UPDATE CASCADE
+        ON DELETE RESTRICT
+);
+
+CREATE TABLE &quot;articulo&quot; (
+    &quot;id_articulo&quot; TEXT,
+    &quot;descripcion&quot; TEXT,
+    &quot;sector&quot;      TEXT,
+    PRIMARY KEY(&quot;id_articulo&quot;),
+    FOREIGN KEY(&quot;sector&quot;) REFERENCES &quot;sector&quot;(&quot;sector&quot;)
+        ON UPDATE CASCADE
+        ON DELETE RESTRICT
+);
+
+CREATE TABLE &quot;pedido&quot; (
+    &quot;id_pedido&quot;          INTEGER,
+    &quot;estado&quot;             TEXT    DEFAULT 'CREADO',
+    &quot;cuit&quot;               TEXT,
+    &quot;fecha_creacion&quot;     TEXT,
+    &quot;fecha_finalizacion&quot; TEXT,
+    &quot;prioridad&quot;          INTEGER,
+    PRIMARY KEY(&quot;id_pedido&quot; AUTOINCREMENT),
+    FOREIGN KEY(&quot;cuit&quot;) REFERENCES &quot;cliente&quot;(&quot;cuit&quot;)
+        ON UPDATE CASCADE
+        ON DELETE RESTRICT,
+    CONSTRAINT &quot;check_estado&quot;     CHECK(&quot;estado&quot;     IN ('CREADO', 'RECIBIDO', 'LISTO')),
+    CONSTRAINT &quot;check_prioridad&quot;  CHECK(&quot;prioridad&quot;  IN (1, 0))
+);
+
+CREATE TABLE &quot;parte&quot; (
+    &quot;id_pedido&quot;            INTEGER,
+    &quot;sector&quot;               TEXT,
+    &quot;usuario_procesador&quot;   TEXT,
+    &quot;estado&quot;               TEXT DEFAULT 'CREADO',
+    &quot;fecha_creacion&quot;       TEXT,
+    &quot;fecha_finalizacion&quot;   TEXT,
+    &quot;nombre_persona_proceso&quot; TEXT,
+    PRIMARY KEY(&quot;id_pedido&quot;, &quot;sector&quot;),
+    FOREIGN KEY(&quot;id_pedido&quot;) REFERENCES &quot;pedido&quot;(&quot;id_pedido&quot;)
+        ON UPDATE CASCADE
+        ON DELETE RESTRICT,
+    FOREIGN KEY(&quot;sector&quot;) REFERENCES &quot;sector&quot;(&quot;sector&quot;)
+        ON UPDATE CASCADE
+        ON DELETE RESTRICT,
+    FOREIGN KEY(&quot;usuario_procesador&quot;, &quot;sector&quot;) REFERENCES &quot;usuario&quot;(&quot;username&quot;, &quot;sector&quot;)
+        ON UPDATE CASCADE
+        ON DELETE RESTRICT,
+    CHECK(&quot;estado&quot; IN ('CREADO', 'RECIBIDO', 'LISTO'))
+);
+
+CREATE TABLE &quot;articulo_de_parte&quot; (
+    &quot;id_articulo&quot; TEXT,
+    &quot;id_pedido&quot;   INTEGER,
+    &quot;sector&quot;      TEXT,
+    PRIMARY KEY(&quot;id_articulo&quot;, &quot;sector&quot;, &quot;id_pedido&quot;),
+    FOREIGN KEY(&quot;id_pedido&quot;, &quot;sector&quot;) REFERENCES &quot;parte&quot;(&quot;id_pedido&quot;, &quot;sector&quot;)
+        ON UPDATE CASCADE
+        ON DELETE RESTRICT,
+    FOREIGN KEY(&quot;id_articulo&quot;) REFERENCES &quot;articulo&quot;(&quot;id_articulo&quot;)
+        ON UPDATE CASCADE
+        ON DELETE RESTRICT
+);
+
+COMMIT;</sql><current_tab id="0"/></tab_sql></sqlb_project>

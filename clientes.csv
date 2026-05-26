@@ -1,0 +1,414 @@
+N° de Cuenta;Nombre de la Cuenta;Categoría de IVA;N° CUIT/Doc.;Vendedor;Grupo
+124;TUBOSCOPE VECTO DE ARGENTINA S.A ;Consumidor Final;33616008639;Vendedor;Clientes Cta Cte Empresas
+100;Riccobon;Consumidor Final;3333333;Vendedor;Clientes Cta Cte
+RENU3534;Benavides Diliana;Consumidor Final;95395366;Administración;Renueva EMPLEADOS
+RENU3540;Buchile Santiago;Consumidor Final;38492610;Administración;Renueva EMPLEADOS
+RENU3536;Bustos Rodrigo;Consumidor Final;36257170;Administración;Renueva EMPLEADOS
+RENU3504;Caballero Victor;Consumidor Final;24568850;Administración;Renueva EMPLEADOS
+RENU3543;Erdozain Alejandro;Consumidor Final;20596543;Administración;Renueva EMPLEADOS
+RENU3537;Garzon Nicolas;Consumidor Final;38985425;Administración;Renueva EMPLEADOS
+RENU3541;Leiva Maximiliano;Consumidor Final;39682684;Administración;Renueva EMPLEADOS
+RENU3545;Leon Gabriel;Consumidor Final;18879157;Administración;Renueva EMPLEADOS
+RENU3518;Martinez Pablo Sebastian;Consumidor Final;26864145;Administración;Renueva EMPLEADOS
+RENU3539;Mendez Dario;Consumidor Final;29850742;Administración;Renueva EMPLEADOS
+RENU3546;Meriño Santiago;Consumidor Final;43760036;Administración;Renueva EMPLEADOS
+RENU3544;Paviolo Carlos;Consumidor Final;38812676;Administración;Renueva EMPLEADOS
+RENU3531;Peñalver Juan Marcelo;Consumidor Final;27649261;Administración;Renueva EMPLEADOS
+RENU3521;Perez Choque Rosauro;Consumidor Final;92969620;Administración;Renueva EMPLEADOS
+RENU3532;Rosas Diego Nicolas;Consumidor Final;30231611;Administración;Renueva EMPLEADOS
+RENU3523;Stadler Juan Pablo;Consumidor Final;31373147;Administración;Renueva EMPLEADOS
+RENU3535;Vidal Enzo;Consumidor Final;33292399;Administración;Renueva EMPLEADOS
+RENU3542;Villalba Andres;Consumidor Final;28418450;Administración;Renueva EMPLEADOS
+LIBR2002;Galluci Walter Luis;Consumidor Final;14110555;Administración;Libra EMPLEADOS
+LIBR2004;Perez Graciela Beatriz;Consumidor Final;14360619;Administración;Libra EMPLEADOS
+LIBR2010;Urra Godoy Sandra Patricia;Consumidor Final;23494530;Administración;Libra EMPLEADOS
+LIBR2019;Finos María José;Consumidor Final;31820379;Administración;Libra EMPLEADOS
+PRON2543;Silva Smith Walterio;Consumidor Final;92890826;Administración;Pronto EMPLEADOS
+LIBR2027;Millamuen Gabriel Fabián;Consumidor Final;32645787;Administración;Libra EMPLEADOS
+LIBR2013;García Apeceche Rodrigo;Consumidor Final;94030838;Administración;Libra EMPLEADOS
+LIBR2036;Reinoso Fuentealba Ana María;Consumidor Final;33331231;Administración;Libra EMPLEADOS
+LIBR2039;Jara Natanael Elías;Consumidor Final;37025880;Administración;Libra EMPLEADOS
+LIBR2044;Mendez Poblete Facundo;Consumidor Final;36800198;Administración;Libra EMPLEADOS
+LIBR2050;Holzmann Javier Alejandro;Consumidor Final;26901164;Administración;Libra EMPLEADOS
+LIBR2052;Arias Norberto Oscar Ismael;Consumidor Final;30752401;Administración;Libra EMPLEADOS
+LIBR2054;Liet Julieta Rocío;Consumidor Final;37908113;Administración;Libra EMPLEADOS
+LIBR2061;Geisse Montesinos Gerardo Patricio;Consumidor Final;31613913;Administración;Libra EMPLEADOS
+LIBR2062;Hernández María Belén;Consumidor Final;30226513;Administración;Libra EMPLEADOS
+LIBR2066;Pavon Jorge Patricio;Consumidor Final;30096075;Administración;Libra EMPLEADOS
+LIBR2067;San Martín Juan Pablo;Consumidor Final;37858779;Administración;Libra EMPLEADOS
+LIBR2076;Markovesky Jorgelina Daniela;Consumidor Final;30777292;Administración;Libra EMPLEADOS
+LIBR2086;Rodriguez López Winston;Consumidor Final;95942737;Administración;Libra EMPLEADOS
+LIBR2088;Ara María Paula;Consumidor Final;30805434;Administración;Libra EMPLEADOS
+LIBR2101;Alarcón Matías Gabriel;Consumidor Final;34866365;Administración;Libra EMPLEADOS
+LIBR2102;Cortez Mayra Soledad;Consumidor Final;36307581;Administración;Libra EMPLEADOS
+LIBR2003;Ruiz José Ignacio;Consumidor Final;28705096;Administración;Libra EMPLEADOS
+LIBR2070;Benitez Silvia Adriana;Consumidor Final;35190909;Administración;Libra EMPLEADOS
+LIBR2074;Pineda Alastre Gabriel Eduardo;Consumidor Final;95893048;Administración;Libra EMPLEADOS
+LIBR2089;Illescas Sofía Magdalena;Consumidor Final;35263963;Administración;Libra EMPLEADOS
+LIBR2091;Maureira Jonathan Ignacio;Consumidor Final;33507662;Administración;Libra EMPLEADOS
+LIBR2092;Fossaroli Gabriel Alejandro;Consumidor Final;35660608;Administración;Libra EMPLEADOS
+LIBR2093;Velasquez Martin Gustavo;Consumidor Final;39131081;Administración;Libra EMPLEADOS
+LIBR2100;Fuentealba Morales Nery Nelda;Consumidor Final;92435326;Administración;Libra EMPLEADOS
+LIBR2000;Imio Guillermo Mariano;Consumidor Final;36256879;Administración;Libra EMPLEADOS
+PRON2500;Arnedo Ronchi Raul Adolfo;Consumidor Final;27232346;Administración;Pronto EMPLEADOS
+PRON2501;Bottoso Ricardo Miguel;Consumidor Final;16751057;Administración;Pronto EMPLEADOS
+PRON2502;Codaglio Rimoldi Mauro;Consumidor Final;39021833;Administración;Pronto EMPLEADOS
+PRON2503;Gallucci Santiago;Consumidor Final;34662864;Administración;Pronto EMPLEADOS
+PRON2504;Giallombardo Christian;Consumidor Final;33621691;Administración;Pronto EMPLEADOS
+PRON2505;Leiva Mario Alejandro;Consumidor Final;31760828;Administración;Pronto EMPLEADOS
+PRON2509;Velasquez Fernanda Gabriela;Consumidor Final;38063750;Administración;Pronto EMPLEADOS
+PRON2508;Umfier Gastón Ezequiel;Consumidor Final;36692866;Administración;Pronto EMPLEADOS
+LIBR2106;Calfinier Agustín Miguel;Consumidor Final;38493104;Administración;Libra EMPLEADOS
+CUST4120;Jara Ernestina;Consumidor Final;18100924;Administración;Custodia de Arch EMPLEADO
+CUST4000;Labourdette Luis Fermin;Consumidor Final;28485610;Administración;Custodia de Arch EMPLEADO
+PRON2512;Oñate Griselda Mabel;Consumidor Final;16590286;Administración;Pronto EMPLEADOS
+LIBR2103;Andrada Diego Fernando;Consumidor Final;36495433;Administración;Libra EMPLEADOS
+LIBR2104;Córdoba Rodrigo Martín;Consumidor Final;31820042;Administración;Libra EMPLEADOS
+LIBR2105;Muñoz Mauro David;Consumidor Final;36433866;Administración;Libra EMPLEADOS
+CUST4119;Pereyra Osvaldo;Consumidor Final;39681021;Administración;Custodia de Arch EMPLEADO
+CUST4006;Montiveros Juana Esther;Consumidor Final;14710713;Administración;Custodia de Arch EMPLEADO
+CUST4113;León Antonella Beatriz;Consumidor Final;34944895;Administración;Custodia de Arch EMPLEADO
+CUST4127;Cabrera Ricardo;Consumidor Final;33907532;Administración;Custodia de Arch EMPLEADO
+CUST4122;Escobar Lorca Agustín;Consumidor Final;40102019;Administración;Custodia de Arch EMPLEADO
+CUST4117;Pareja Pablo Ariel;Consumidor Final;30144863;Administración;Custodia de Arch EMPLEADO
+CUST4125;Samhueza Cristhian;Consumidor Final;34866455;Administración;Custodia de Arch EMPLEADO
+CUST4112;Silva Diego Nicolás;Consumidor Final;39881297;Administración;Custodia de Arch EMPLEADO
+CUST4128;Cabrera Nicolás Ezequiel;Consumidor Final;38397109;Administración;Custodia de Arch EMPLEADO
+CUST4003;Pacheco Villarroel Diego;Consumidor Final;26171940;Administración;Custodia de Arch EMPLEADO
+CUST4121;Echeverria Bravo Felipe;Consumidor Final;37213710;Administración;Custodia de Arch EMPLEADO
+CUST4010;Esandi Eduardo Enrique;Consumidor Final;13931481;Administración;Custodia de Arch EMPLEADO
+CUST4111;Bernst Santiago;Consumidor Final;8324049;Administración;Custodia de Arch EMPLEADO
+CUST4012;Martín Néstor;Consumidor Final;14870475;Administración;Custodia de Arch EMPLEADO
+CUST4126;Vaccaro Daniel;Consumidor Final;14870684;Administración;Custodia de Arch EMPLEADO
+CUST4001;Batocchi Ricardo Luis;Consumidor Final;08118254;Administración;Custodia de Arch EMPLEADO
+CUST4002;Jelves Gallardo Rodrigo;Consumidor Final;92721954;Administración;Custodia de Arch EMPLEADO
+CUST4116;Cabrera Verónica;Consumidor Final;01010101;Administración;Custodia de Arch EMPLEADO
+CUST4129;Cavanay Mario;Consumidor Final;02020202;Administración;Custodia de Arch EMPLEADO
+134;Escobar Carlos Alberto;Consumidor Final;18180052;Administración;Clientes Cta Cte
+LIBR2107;Montero Sandro Ariel;Consumidor Final;27046731;Administración;Libra EMPLEADOS
+LIBR2108;Ordenes Aldo Nahuel;Consumidor Final;34869966;Administración;Libra EMPLEADOS
+LIBR2109;Fuentes Kevin Emanuel;Consumidor Final;42518248;Administración;Libra EMPLEADOS
+LIBR2110;Cameranesi Rodriguez Diego Jesus;Consumidor Final;42727962;Administración;Libra EMPLEADOS
+RENU3548;Amaya Retuerto Alfredo Mauro;Consumidor Final;94721904;Administración;Renueva EMPLEADOS
+LIBR2112;Bustos Exequiel Dario;Consumidor Final;36151269;Administración;Libra EMPLEADOS
+LIBR2113;Riquelme Luis Alberto;Consumidor Final;39547445;Administración;Libra EMPLEADOS
+PRON2513;Sandi Victor;Consumidor Final;32544890;Administración;Pronto EMPLEADOS
+PRON2514;Serrano Marcos;Consumidor Final;40443850;Administración;Pronto EMPLEADOS
+PRON2515;Vilches Luis Leonardo;Consumidor Final;32284768;Administración;Pronto EMPLEADOS
+PRON2516;De La Fuente Ortiz Maria Florencia;Consumidor Final;28348991;Administración;Pronto EMPLEADOS
+PRON2517;Besada Esteban José;Consumidor Final;29437982;Administración;Pronto EMPLEADOS
+PRON2518;De Brakeleer Carlos Adrian;Consumidor Final;44320738;Administración;Pronto EMPLEADOS
+RENU3549;Castillo Facundo Nicolás;Consumidor Final;40614622;Administración;Renueva EMPLEADOS
+LIBR2115;Flores Joaquin Nazareno;Consumidor Final;41977346;Administración;Libra EMPLEADOS
+PRON2537;Garza Juan Pablo;Consumidor Final;23629342;Administración;Pronto EMPLEADOS
+LIBR2117;Meriño Rosas Jeremias Exequiel;Consumidor Final;36801150;Administración;Libra EMPLEADOS
+LIBR2118;Vega Ana Laura;Consumidor Final;40181742;Administración;Libra EMPLEADOS
+LIBR2119;Arias Diego Cesar;Consumidor Final;27505171;Administración;Libra EMPLEADOS
+RENU3560;Velasquez Verónica Carolina;Consumidor Final;34310834;Administración;Renueva EMPLEADOS
+PRON2519;Villalobos Sebastian;Consumidor Final;40294932;Administración;Pronto EMPLEADOS
+RENU3547;Abraguin Patricia Agustina;Consumidor Final;33768054;Administración;Renueva EMPLEADOS
+RENU3550;Pereyra Leandro Ignacio;Consumidor Final;29147626;Administración;Renueva EMPLEADOS
+RENU3551;Galeano Hernan Ariel;Consumidor Final;26465461;Administración;Renueva EMPLEADOS
+LIBR2121;Godoy Sabrina Soledad;Consumidor Final;36563173;Administración;Libra EMPLEADOS
+LIBR2122;Vasquez Oscar Dario;Consumidor Final;32695036;Administración;Libra EMPLEADOS
+PRON2520;Mendoza Nayla;Consumidor Final;37771209;Administración;Pronto EMPLEADOS
+PRON2521;Ramirez Sheila;Consumidor Final;35600066;Administración;Pronto EMPLEADOS
+1748;KUQUI;Consumidor Final;999999999;Vendedor;Clientes Cta Cte
+PRON2524;Fuentealba Dalila;Consumidor Final;18797430;Administración;Pronto EMPLEADOS
+RENU3561;Lannuzzi Weber Luciana Maria;Consumidor Final;40072087;Administración;Renueva EMPLEADOS
+PRON2525;Machuca Ganancias Marcela;Consumidor Final;38410265;Administración;Pronto EMPLEADOS
+2030;Facundo Boncaro;Consumidor Final;2;Administración;Renueva EMPLEADOS
+LIBR2124;Bustamante Angelica;Consumidor Final;36679608;Administración;Libra EMPLEADOS
+LIBR2125;Freyre Brisa Antonella;Consumidor Final;42710424;Administración;Libra EMPLEADOS
+LIBR2126;Leiva Guadalupe;Consumidor Final;38813171;Administración;Libra EMPLEADOS
+LIBR2127;Lopez Facundo Nicolas;Consumidor Final;42910065;Administración;Libra EMPLEADOS
+LIBR2128;Melo Hernando Esequiel;Consumidor Final;42273208;Administración;Libra EMPLEADOS
+LIBR2129;Pacheco Ricardo Adiel;Consumidor Final;93937740;Administración;Libra EMPLEADOS
+LIBR2130;Pavon Juan Ignacio;Consumidor Final;42809692;Administración;Libra EMPLEADOS
+LIBR2131;Roldan Ardiles Carlos Roman;Consumidor Final;43422343;Administración;Libra EMPLEADOS
+RENU3552;Marzadri Leandro Jose;Consumidor Final;35222868;Administración;Renueva EMPLEADOS
+RENU3553;Acosta Duete Pablo Gabriel;Consumidor Final;40803000;Administración;Renueva EMPLEADOS
+RENU3554;Salazar Luengo Franco Lautaro;Consumidor Final;43422302;Administración;Renueva EMPLEADOS
+RENU3555;Robles Josias Benjamin;Consumidor Final;43487143;Administración;Renueva EMPLEADOS
+RENU3556;Dominguez Julian Dario;Consumidor Final;44628306;Administración;Renueva EMPLEADOS
+RENU3557;Barros Juan Carlos Ezequiel;Consumidor Final;43553296;Administración;Renueva EMPLEADOS
+IVIG5001;Iviglia Roberto Martin ;Consumidor Final;14761347;Vendedor;Empleados IVIGLIA
+IVIG5002;Iviglia Thomas ;Consumidor Final;36669268;Vendedor;Empleados IVIGLIA
+IVIG5003;Iviglia Pedro ;Consumidor Final;34812675;Vendedor;Empleados IVIGLIA
+IVIG5004;Agustin Iviglia;Consumidor Final;38809809;Vendedor;Empleados IVIGLIA
+IVIG5005;Allende Liliana ;Consumidor Final;18681656;Vendedor;Empleados IVIGLIA
+IVIG5006;Rodriguez Maria Emilia ;Consumidor Final;32769136;Vendedor;Empleados IVIGLIA
+IVIG5007;Salomon Silvana ;Consumidor Final;25724712;Vendedor;Empleados IVIGLIA
+IVIG5008;Tettamanzi Pablo ;Consumidor Final;22908786;Vendedor;Empleados IVIGLIA
+IVIG5009;Uribe Carlos Alberto;Consumidor Final;22473135;Vendedor;Empleados IVIGLIA
+IVIG5010;Veroiza Daniel ;Consumidor Final;37858119;Vendedor;Empleados IVIGLIA
+IVIG5011;Visconti Pedro ;Consumidor Final;30080367;Vendedor;Empleados IVIGLIA
+IVIG5012;Muñoz Manosalva Miguel ;Consumidor Final;92829186;Vendedor;Empleados IVIGLIA
+IVIG5013;Bertoglio Andrea;Consumidor Final;30855399;Vendedor;Empleados IVIGLIA
+IVIG5014;Micaela Bouciguez;Consumidor Final;41391295;Vendedor;Empleados IVIGLIA
+IVIG5015;Hugo Burgos;Consumidor Final;36343498;Vendedor;Empleados IVIGLIA
+IVIG5016;Caballero Natalia ;Consumidor Final;28004077;Vendedor;Empleados IVIGLIA
+IVIG5017;Campos Miriam ;Consumidor Final;29159348;Vendedor;Empleados IVIGLIA
+IVIG5018;Carvajal Pamela ;Consumidor Final;33038032;Vendedor;Empleados IVIGLIA
+IVIG5019;Catalan Jose ;Consumidor Final;36433533;Vendedor;Empleados IVIGLIA
+IVIG5020;Alejandra Cruces;Consumidor Final;26144346;Vendedor;Empleados IVIGLIA
+IVIG5021;Diaz Pedro ;Consumidor Final;26783902;Vendedor;Empleados IVIGLIA
+IVIG5022;Fernandez Jaime ;Consumidor Final;95891123;Vendedor;Empleados IVIGLIA
+IVIG5023;Gonzalez Adrian;Consumidor Final;23427226;Vendedor;Empleados IVIGLIA
+IVIG5024;Cecilia Gonzalez;Consumidor Final;26498070;Vendedor;Empleados IVIGLIA
+IVIG5025;Granda Mira Alexandra ;Consumidor Final;94886365;Vendedor;Empleados IVIGLIA
+IVIG5026;Magdalena Grill;Consumidor Final;32974922;Vendedor;Empleados IVIGLIA
+IVIG5027;Juarez Karina ;Consumidor Final;21586417;Vendedor;Empleados IVIGLIA
+IVIG5028;Martinez Loreanni ;Consumidor Final;95747393;Vendedor;Empleados IVIGLIA
+IVIG5029;Orellana Cecilia ;Consumidor Final;25113657;Vendedor;Empleados IVIGLIA
+IVIG5030;Perloz Tiznado Ruth ;Consumidor Final;92850070;Vendedor;Empleados IVIGLIA
+IVIG5031;Noelia Agustina Manrique;Consumidor Final;35886603;Vendedor;Empleados IVIGLIA
+RENU3558;Enzo jose Oscar Mancero;Consumidor Final;41050335;Administración;Renueva EMPLEADOS
+LIBR2133;Mariela Parra;Consumidor Final;35663308;Administración;Libra EMPLEADOS
+LIBR2132;Florencia Magali Lopez;Consumidor Final;40295034;Administración;Libra EMPLEADOS
+PRON2526;Aguila Facundo Gabriel;Consumidor Final;41437896;Administración;Pronto EMPLEADOS
+PRON2527;Abrahan Agustín;Consumidor Final;42806420;Administración;Pronto EMPLEADOS
+PRON2528;Torres Ailin;Consumidor Final;40960116;Administración;Pronto EMPLEADOS
+PRON2529;Bortolotti Gian;Consumidor Final;41124217;Administración;Pronto EMPLEADOS
+PRON2530;Abonisio Sebastian;Consumidor Final;38087167;Administración;Pronto EMPLEADOS
+RENU3562;Blanco Mauro;Consumidor Final;44779027;Administración;Renueva EMPLEADOS
+IVIG5032;Ozzimo Pablo Martin ;Consumidor Final;28815022;Vendedor;Empleados IVIGLIA
+IVIG5033;Barros Brenda Belen;Consumidor Final;38259381;Vendedor;Empleados IVIGLIA
+IVIG5034;Armengol Betiana ;Consumidor Final;29796811;Vendedor;Empleados IVIGLIA
+IVIG5035;Muñoz Ursula Nerea;Consumidor Final;34381023;Vendedor;Empleados IVIGLIA
+RENU3563;Bellido Lautaro Danie;Consumidor Final;44779784;Administración;Renueva EMPLEADOS
+RENU3564;Di Paola Jose Maria;Consumidor Final;39682672;Administración;Renueva EMPLEADOS
+3087;Juan Carlos de Leon;Consumidor Final;10455104;Vendedor;Clientes Cta Cte
+3098;Roberto Gambaruto;Consumidor Final;99987987;Vendedor;Clientes Cta Cte
+3099;INES PADER;Consumidor Final;297973291;Vendedor;Clientes Cta Cte
+3123;Barrera Andres;Consumidor Final;21717416;Vendedor;Clientes Cta Cte
+PRON2531;BIMA ADRIANA SOLEDAD;Consumidor Final;29608709;Administración;Pronto EMPLEADOS
+PRON2532;CASCO EZEQUIEL ANGEL;Consumidor Final;41511179;Administración;Pronto EMPLEADOS
+PRON2533;GOMEZ JIMENA;Consumidor Final;39868143;Administración;Pronto EMPLEADOS
+PRON2534;LANDAETA ENZO;Consumidor Final;40294833;Administración;Pronto EMPLEADOS
+PRON2535;SAAVEDRA JUAN IGNACIO;Consumidor Final;34807174;Administración;Pronto EMPLEADOS
+IVIG5036;NAVARRETE LOURDES;Consumidor Final;33987468;Vendedor;Empleados IVIGLIA
+IVIG5037;MALLA MARTIN;Consumidor Final;32332147;Vendedor;Empleados IVIGLIA
+IVIG5038;WIDMER CAROLINA;Consumidor Final;36307643;Vendedor;Empleados IVIGLIA
+MARPE4500;AMEGLIO MARIA EMILIA;Consumidor Final;36733191;Administración;marpe EMPLEADOS
+MARPE4501;QUILAPI LANCI ENULEN AYELEN;Consumidor Final;39522831;Administración;marpe EMPLEADOS
+MARPE4502;MIRANDA OSCAR ALBERTO;Consumidor Final;29096943;Administración;marpe EMPLEADOS
+MARPE4503;ARIAS ROCIO ALEJANDRA;Consumidor Final;43422342;Administración;marpe EMPLEADOS
+MARPE4504;SPOLITINI MARTINA ;Consumidor Final;44909980;Administración;marpe EMPLEADOS
+MARPE4505;NUÑEZ ROMINA;Consumidor Final;30055329;Administración;marpe EMPLEADOS
+MARPE4506;CASTRO MICAELA;Consumidor Final;44325111;Administración;marpe EMPLEADOS
+MARPE4507;GONCALVEZ CORIA NAYLA;Consumidor Final;37212743;Administración;marpe EMPLEADOS
+MARPE4508;AGURTO ALEJANDRA ARACELI;Consumidor Final;43359322;Administración;marpe EMPLEADOS
+MARPE4509;CARDOZO SILVANA VERONICA;Consumidor Final;31124151;Administración;marpe EMPLEADOS
+MARPE4510;KERN PAULA FLORENCIA;Consumidor Final;38811461;Administración;marpe EMPLEADOS
+MARPE4511;VEGA MAXIMILIANO JESUS;Consumidor Final;45374843;Administración;marpe EMPLEADOS
+MARPE4512;SCWINDT SANTIAGO AGUSTIN;Consumidor Final;43112703;Administración;marpe EMPLEADOS
+MARPE4513;BATAGLIA CARLA;Consumidor Final;23856060;Administración;marpe EMPLEADOS
+MARPE4514;PERALTA PEDRO IGNACIO;Consumidor Final;40442978;Administración;marpe EMPLEADOS
+3188;Romina Briguglio;Consumidor Final;35492951;Vendedor;Clientes Cta Cte
+PRON2536;CURATTO DANIELA;Consumidor Final;37936605;Administración;Pronto EMPLEADOS
+SACDEempl;SACDE EMPLEADOS;Consumidor Final;99999999;Vendedor;Clientes Cta Cte
+MARPE4515;RAMIREZ VICTOR ANTONIO;Consumidor Final;31456776;Administración;marpe EMPLEADOS
+RENU3565;Blanco Cuevas Maximiliano;Consumidor Final;44779042;Administración;Renueva EMPLEADOS
+LIBR2134;Pezzanitti Jose Luis;Consumidor Final;44591473;Administración;Libra EMPLEADOS
+LIBR2135;Cortes Araniti Ezequiel;Consumidor Final;44009252;Administración;Libra EMPLEADOS
+LIBR2136;Rodriguez Miguel Angel;Consumidor Final;31166442;Administración;Libra EMPLEADOS
+9994;Llopart Franco;Consumidor Final;36784074;Administración;Clientes Cta Cte
+RENU3566;Millanir Alexander Ariel;Consumidor Final;46794681;Administración;Renueva EMPLEADOS
+RENU3567;Rubin Nelson David;Consumidor Final;42066465;Administración;Renueva EMPLEADOS
+RENU3568;Caminos Julian Agustin;Consumidor Final;44462810;Administración;Renueva EMPLEADOS
+IVIG5039;FUENTES MIGUEL;Consumidor Final;17416481;Vendedor;Empleados IVIGLIA
+IVIG5040;PELLEGRINI JULIETA;Consumidor Final;39075447;Vendedor;Empleados IVIGLIA
+IVIG5041;CAMELLI MELODY;Consumidor Final;41156340;Vendedor;Empleados IVIGLIA
+IVIG5042;GUTIERREZ LAURA CELESTE;Consumidor Final;34141097;Vendedor;Empleados IVIGLIA
+IVIG5043;CHEIN SANTIAGO;Consumidor Final;41838578;Vendedor;Empleados IVIGLIA
+IVIG5044;CABAÑEZ YAMILA;Consumidor Final;35641817;Vendedor;Empleados IVIGLIA
+MARPE4516;CAMPOS SOFIA;Consumidor Final;44436848;Administración;marpe EMPLEADOS
+MARPE4517;RETAMAL SEBASTIANA ANA;Consumidor Final;43759706;Administración;marpe EMPLEADOS
+MARPE4518;RODRIGUEZ GABRIELA;Consumidor Final;32986613;Administración;marpe EMPLEADOS
+MARPE4519;SAN MARTIN GIULIANA;Consumidor Final;38204423;Administración;marpe EMPLEADOS
+IVIG5045;PAEZ CELIA TAMARA;Consumidor Final;31399607;Vendedor;Empleados IVIGLIA
+IVIG5046;CAYUMIL FAVIO ALEJANDRO;Consumidor Final;44909598;Vendedor;Empleados IVIGLIA
+MARPE4520;FERNANDEZ RITA NOEMI;Consumidor Final;32710177;Administración;marpe EMPLEADOS
+PRON2538;VILLALBA SOLEDAD;Consumidor Final;35624363;Administración;Pronto EMPLEADOS
+PRON2539;CHACON NAHIR FERNANDA;Consumidor Final;35060255;Administración;Pronto EMPLEADOS
+LIBR2137;ALTAMIRANO PAOLO XAVIER;Consumidor Final;34899321;Administración;Libra EMPLEADOS
+3376;AGENCIA MARITIMA INT. SA;Consumidor Final;30585343427;Vendedor;Clientes Cta Cte
+MARPE4521;CAMPANELLA MATIAS SANTIAGO;Consumidor Final;42957181;Administración;marpe EMPLEADOS
+MARPE4522;ANDREOLI SOFIA CLAUDIA;Consumidor Final;39160026;Administración;marpe EMPLEADOS
+RENU3569;ARIZAGA MARIANO CESAR;Consumidor Final;34478849;Administración;Renueva EMPLEADOS
+MARPE4524;IRIGOIN JUAN MANUEL;Consumidor Final;37781441;Administración;marpe EMPLEADOS
+MARPE4525;PUGH ERIC;Consumidor Final;42165501;Administración;marpe EMPLEADOS
+MARPE4526;MEDINA JUAN JOSE ;Consumidor Final;29547980;Administración;marpe EMPLEADOS
+RENU3570;Salas Luciano Gabriel;Consumidor Final;45110456;Administración;Renueva EMPLEADOS
+RENU3571;Vera Axel Joan;Consumidor Final;45978885;Administración;Renueva EMPLEADOS
+RENU3572;Bustos Nahuel Ezequiel;Consumidor Final;41420206;Administración;Renueva EMPLEADOS
+RENU3573;Arancibia Carlos Gonzalo ;Consumidor Final;45364139;Administración;Renueva EMPLEADOS
+RENU3574;Rosales Santino Ignacio;Consumidor Final;47149237;Administración;Renueva EMPLEADOS
+LIBR2138;PINCHULEF GASTON IGNACIO;Consumidor Final;41911119;Administración;Libra EMPLEADOS
+3384;Jorge Mitoraj;Consumidor Final;55555555;Administración;Clientes Cta Cte
+MARPE4527;ANDRADE KEVIN AGUSTIN;Consumidor Final;45374843;Administración;marpe EMPLEADOS
+LIBR2139;CURIQUEO SELENA MALEN;Consumidor Final;47048081;Administración;Libra EMPLEADOS
+3387;Miriam Isabel Delgado;Consumidor Final;23187607;Administración;Clientes Cta Cte
+PRON2540;Cespedes Joaquín ;Consumidor Final;44311676;Administración;Pronto EMPLEADOS
+PRON2541;Friz Karen;Consumidor Final;37213545;Administración;Pronto EMPLEADOS
+PRON2542;Ales Daniela;Consumidor Final;37603640;Administración;Pronto EMPLEADOS
+RENU3575;PADILLA GRISEL EVELYN;Consumidor Final;38101715;Administración;Renueva EMPLEADOS
+IVIG5047;FUENTES CARLA;Consumidor Final;39378431;Vendedor;Empleados IVIGLIA
+IVIG5048;SOLO LUCIANA;Consumidor Final;34862176;Vendedor;Empleados IVIGLIA
+MARPE4528;LEIVA CRISTIAN;Consumidor Final;47369492;Administración;marpe EMPLEADOS
+MARPE4529;TARIFEÑO ALEXIS;Consumidor Final;29386744;Administración;marpe EMPLEADOS
+MARPE4530;CEBREIRO SEBASTIAN;Consumidor Final;37101858;Administración;marpe EMPLEADOS
+MARPE4531;GANTUS JOAQUIN;Consumidor Final;45399646;Administración;marpe EMPLEADOS
+LIBR2140;SANCHEZ THIAGO EMANUEL;Consumidor Final;45509910;Administración;Libra EMPLEADOS
+RENU3576; JULIETA VERONICA BERON;Consumidor Final;30074827;Administración;Renueva EMPLEADOS
+LIBR2141;San Roman Rossi Mayco;Consumidor Final;35123830;Administración;Libra EMPLEADOS
+RENU3577;Fernandez Luciana Patricia;Consumidor Final;31327619;Administración;Renueva EMPLEADOS
+RENU3578;Carrasquera Garavito, Enrique Alberto;Consumidor Final;45733005;Administración;Renueva EMPLEADOS
+RENU3579;Mavrich, Rolando Demian;Consumidor Final;34866888;Administración;Renueva EMPLEADOS
+RENU3580;Carcamo, Dario Nicolas;Consumidor Final;39646573;Administración;Renueva EMPLEADOS
+RENU3581;Rivera Trancon, Alex Juan Pablo;Consumidor Final;45602904;Administración;Renueva EMPLEADOS
+MARPE4532;VIVEROS MARIA SOL;Consumidor Final;38812399;Administración;marpe EMPLEADOS
+MARPE4533;ESQUIVEL JULIO;Consumidor Final;28792847;Administración;marpe EMPLEADOS
+MARPE4534;MORINIGO DIEGO;Consumidor Final;40614650;Administración;marpe EMPLEADOS
+MARPE4535;MONTESINO LEANDRO;Consumidor Final;39522190;Administración;marpe EMPLEADOS
+MARPE4536;FLORES JUAN MATEO;Consumidor Final;44120953;Administración;marpe EMPLEADOS
+MARPE4537;MORENO ALDANA;Consumidor Final;40067270;Administración;marpe EMPLEADOS
+MARPE4538;RIVERA MELINA SOL;Consumidor Final;39682400;Administración;marpe EMPLEADOS
+IVIG5049;CAMPOS JONATHAN;Consumidor Final;4560299;Vendedor;Empleados IVIGLIA
+IVIG5050;MEDINA ENZO ISMAEL;Consumidor Final;41718836;Vendedor;Empleados IVIGLIA
+IVIG5051;MUÑOZ ROCIO GUADALUPE;Consumidor Final;45389561;Vendedor;Empleados IVIGLIA
+IVIG5052;SANCHEZ CLAUDIA;Consumidor Final;26324828;Vendedor;Empleados IVIGLIA
+MARPE4539;GONZALEZ BRIAN;Consumidor Final;41356785;Administración;marpe EMPLEADOS
+MARPE4540;AVEIRO YAMILA;Consumidor Final;46257075;Administración;marpe EMPLEADOS
+MARPE4541;CORIA SEBANTIAN;Consumidor Final;31327784;Administración;marpe EMPLEADOS
+MARPE4542;MENDEZ ARACELI;Consumidor Final;41837669;Administración;marpe EMPLEADOS
+PRON2544;Marco Zec;Consumidor Final;31528375;Administración;Pronto EMPLEADOS
+021;SINDICATO CAMIONEROS NQN;Exento B;33611023699;Vendedor;Clientes Cta Cte Empresas
+202;ASOCIACION MUTUAL CAMIONEROS NQN;Exento B;30710632657;Vendedor;Clientes Cta Cte Empresas
+143;FUNDACION COLEGIO CONFLUENCIA ;Exento B;30714867284;Vendedor;Clientes Cta Cte Empresas
+709;SINDICATO DE PETROLEO Y GAS RN Y NQN;Exento B;30557640904;Vendedor;Clientes Cta Cte Empresas
+00171;CONCEJO PROV DE EDUCACION DEL NEUQUEN ESCUELA;Exento B;30999278376;Administración;Clientes Cta Cte Empresas
+00155;NEUQUEN RUGBY CLUB ;Exento B;30684486000;Administración;Clientes Cta Cte
+00174;MUTUAL DE EMPL Y OBREROS PETROL PRIV MEOPP;Exento B;30557641064;Administración;Clientes Cta Cte Empresas
+1210;DCCION. ADM. DE LA SUBS. DE SALUD PCIA. DE NEUQUEN;Exento B;30707519378;Vendedor;Clientes Cta Cte Empresas
+1226;MUNICIPALIDAD DE NEUQUEN;Exento B;30639251663;Administración;Clientes Cta Cte Empresas
+1236;MUTUAL DE EMPL. Y OBREROS PETROL. PRIV. ART MUTUAL;Exento B;30715002953;Administración;Clientes Cta Cte Empresas
+1276;UNION DE RUGBY DEL ALTO VALLE DE R.N. Y NQN;Exento B;30672696573;Vendedor;Clientes Cta Cte Empresas
+1311;HONORABLE LEGISLATURA DE LA PROV. DE NEUQUÉN;Exento B;30999260183;Administración;Clientes Cta Cte Empresas
+1339;CONCEJO DELIBERANTE DE LA CIUDAD DE NEUQUEN ;Exento B;30684531634;Vendedor;Clientes Cta Cte Empresas
+1667;FUNDACION ISI COLLEGE;Exento B;30707489452;Vendedor;Clientes Cta Cte Empresas
+1741;DIRECCION PROVINCIA DE VIALIDAD NEUQUEN;Exento B;30999069319;Vendedor;Clientes Cta Cte Empresas
+1791;UTEDYC;Exento B;30531602273;Vendedor;Clientes Cta Cte
+1851;DCCION. ADM. DE LA POLICIA DE LA PROVINCIA DEL NEU;Exento B;33707519369;Vendedor;Clientes Cta Cte Empresas
+3055;CLUB DE VETERANAS DE TENIS MARI MALEN;Exento B;30707070362;Vendedor;Clientes Cta Cte
+3314;SECRETARIA DE PRODUCCION E INDUSTRIA;Exento B;30710405871;Vendedor;Clientes Cta Cte
+3336;OBRA SOCIAL DE PETROLEROS PRIVADOS;Exento B;30710691483;Vendedor;Clientes Cta Cte Empresas
+3374;ASOCIAC MUTUAL TRABAJADOR CONSTRUCT NEUQUI (UOCRA);Exento B;30715929496;Vendedor;Clientes Cta Cte Empresas
+3397;MINISTERIO DE EDUCACION O.P;Exento B;30718419138;Administración;Clientes Cta Cte Empresas
+3415;MUNICIPALIDAD DE RINCON DE LOS SAUCES;Exento B;30999276225;Vendedor;Clientes Cta Cte Empresas
+3418;UN TECHO PARA ARGENTINA ASOCIACION CIVIL;Exento B;30708357363;Vendedor;Clientes Cta Cte Empresas
+009;SERVICIOS ESPECIALES SAN ANTONIO S.A.;Responsable Inscripto;30590535741;Vendedor;Clientes Cta Cte Empresas
+645;SAN ANTONIO INTERNACIONAL SRL;Responsable Inscripto;30553613147;Vendedor;Clientes Cta Cte Empresas
+019;A-EVANGELISTA S.A ;Responsable Inscripto;30685218190;Vendedor;Clientes Cta Cte Empresas
+758;ENSIGN ARGENTINA S.A ;Responsable Inscripto;30692298426;Vendedor;Clientes Cta Cte Empresas
+118;SIDERCA S.A.I.C;Responsable Inscripto;30550815997;Vendedor;Clientes Cta Cte Empresas
+077;TECPETROL S.A;Responsable Inscripto;30592665472;Vendedor;Clientes Cta Cte Empresas
+141;TOTAL AUSTRAL S.A;Responsable Inscripto;30569719344;Vendedor;Clientes Cta Cte Empresas
+045;CONTRERAS HERMANOS S A I C I F A G Y M;Responsable Inscripto;30504536706;Vendedor;Clientes Cta Cte Empresas
+993;I.J.A.N;Responsable Inscripto;30712060561;Vendedor;Clientes Cta Cte Empresas
+204;NOV DOWNHOLE ARGENTINA LLC;Responsable Inscripto;33708405529;Vendedor;Clientes Cta Cte Empresas
+062;BACS S.A ;Responsable Inscripto;30672661397;Vendedor;Clientes Cta Cte Empresas
+111;PASON DGS S.A ;Responsable Inscripto;33708203349;Vendedor;Clientes Cta Cte Empresas
+235;PECOM SERV.ENERGIA S.A ;Responsable Inscripto;30654424698;Vendedor;Clientes Cta Cte Empresas
+067;SINDICATO PETROLEROS JERARQUICOS ;Responsable Inscripto;30707870822;Vendedor;Clientes Cta Cte Empresas
+119;OILFIELD SERVICES S.A ;Responsable Inscripto;30711790264;Administración;Clientes Cta Cte Empresas
+116;CUSTODIA DE ARCHIVOS DEL COMAHUE S.A.;Responsable Inscripto;30699626224;Administración;Clientes Cta Cte
+137;LIBRA S.A ;Responsable Inscripto;33715093559;Administración;Clientes Cta Cte
+151;RENUEVA S.A ;Responsable Inscripto;30715066617;Administración;Clientes Cta Cte
+167;PRONTO S.A ;Responsable Inscripto;30716727250;Administración;Clientes Cta Cte
+105;TARJETA NARANJA S.A ;Responsable Inscripto;30685376349;Administración;Clientes Cta Cte Empresas
+673;BANCO PROVINCIA DEL NEUQUEN;Responsable Inscripto;30500014047;Administración;Clientes Cta Cte Empresas
+00163;VENVER SOCIEDAD ANONIMA;Responsable Inscripto;30644688352;Administración;Clientes Cta Cte Empresas
+00175;DON CARLOS S.R.L;Responsable Inscripto;30697871442;Administración;Clientes Cta Cte
+998;BASAA S.A.;Responsable Inscripto;30518764701;Vendedor;Clientes Cta Cte Empresas
+1000;PALMER SERVICIOS SAS;Responsable Inscripto;33716628219;Administración;Clientes Cta Cte Empresas
+00173;LOS MALALES S.R.L;Responsable Inscripto;30711146772;Administración;Clientes Cta Cte
+00176;KANDO S.R.L;Responsable Inscripto;33709453209;Administración;Clientes Cta Cte Empresas
+1013;VITAL SERVICIOS S.R.L.;Responsable Inscripto;30710975546;Vendedor;Clientes Cta Cte Empresas
+1029;SERVICIOS NASER SRL;Responsable Inscripto;30709423122;Vendedor;Clientes Cta Cte Empresas
+00139;CASINO MAGIC NEUQUEN S.A ;Responsable Inscripto;30672717538;Administración;Clientes Cta Cte Empresas
+0162;COLEGIO DE ESCRIBANOS DE LA PROVINCIA DE NEUQUÉN;Responsable Inscripto;30561986653;Vendedor;Clientes Cta Cte Empresas
+1070;OLIVIA CATERING S.R.L.;Responsable Inscripto;30711529833;Vendedor;Clientes Cta Cte Empresas
+1107;NICASTRO JOSE SALVADOR;Responsable Inscripto;23069089909;Vendedor;Clientes Cta Cte
+1123;PGA SRL;Responsable Inscripto;30708803894;Vendedor;Clientes Cta Cte Empresas
+0169;VDN S.A.;Responsable Inscripto;30710187408;Vendedor;Clientes Cta Cte Empresas
+1130;OFFICE GOURMET S.R.L.;Responsable Inscripto;30709077313;Vendedor;Clientes Cta Cte
+1134;JAS S.R.L.;Responsable Inscripto;30708992271;Vendedor;Clientes Cta Cte Empresas
+1150;SANCOR COOP.SEGUROS LTDA.;Responsable Inscripto;30500049460;Administración;Clientes Cta Cte Empresas
+1172;TROMENCO SRL;Responsable Inscripto;30512889707;Vendedor;Clientes Cta Cte
+1264;CERVECERIA Y MALTERIA QUILMES SAICAYG;Responsable Inscripto;33508358259;Administración;Clientes Cta Cte Empresas
+1285;ORGANIZACION IVIGLIA SRL;Responsable Inscripto;33715411739;Vendedor;Clientes Cta Cte
+1312;LUIS ARCEO SRL;Responsable Inscripto;30709098795;Administración;Clientes Cta Cte Empresas
+1363;RICCOBON HIJOS S.A.;Responsable Inscripto;30708715758;Vendedor;Clientes Cta Cte
+1364;Oilfield & Production Services SRL;Responsable Inscripto;30707589902;Administración;Clientes Cta Cte Empresas
+1373;CORPORACION AFILIADA DEL SUR S.A.;Responsable Inscripto;30619652920;Vendedor;Clientes Cta Cte Empresas
+1378;SAIGRO S A;Responsable Inscripto;30590689692;Vendedor;Clientes Cta Cte Empresas
+1393;EL CARRITO DE JOBBYS S.A.S.;Responsable Inscripto;30717348504;Administración;Clientes Cta Cte
+1405;CAMPANA II SOCIEDAD ANONIMA;Responsable Inscripto;30661883150;Vendedor;Clientes Cta Cte
+1409;METALURGICASIAM S. A.;Responsable Inscripto;30711351937;Vendedor;Clientes Cta Cte Empresas
+1443;GABINO CELSO CORREA COMPAÑIA DE SERVICIOS SRL;Responsable Inscripto;30684518468;Vendedor;Clientes Cta Cte Empresas
+1450;NATIONAL OILWELL VARCO MSW S.A;Responsable Inscripto;30502590568;Vendedor;Clientes Cta Cte Empresas
+1459;MARPE SAS;Responsable Inscripto;30717019926;Vendedor;Clientes Cta Cte Empresas
+1478;PATAGONIA.AR SA;Responsable Inscripto;30709650889;Vendedor;Clientes Cta Cte Empresas
+1502;ALBERTO J ROMERO RUBEN ROMERO Y CARLOS ROMERO;Responsable Inscripto;30606009492;Administración;Clientes Cta Cte Empresas
+1506;AMANCIO SAS;Responsable Inscripto;30716783614;Administración;Clientes Cta Cte
+1525;IMEDA ARGENTINA S.A.;Responsable Inscripto;33711353629;Vendedor;Clientes Cta Cte Empresas
+1526;TACKER SRL;Responsable Inscripto;30657819049;Vendedor;Clientes Cta Cte Empresas
+1555;TOTAL AUSTRAL S.A. AGUADA PICHANA;Responsable Inscripto;30678564512;Vendedor;Clientes Cta Cte Empresas
+1605;GRAN VALLE NEGOCIOS S.A;Responsable Inscripto;30710509952;Vendedor;Clientes Cta Cte Empresas
+1610;PECOM SERVICIOS MEDIOAMBIENTALES;Responsable Inscripto;30709858595;Vendedor;Clientes Cta Cte Empresas
+1690;VIÑEDOS DE LA PATAGONIA S.R.L;Responsable Inscripto;30707623876;Vendedor;Clientes Cta Cte Empresas
+1746;EGEA PATRICIA LORENA ANAHGI;Responsable Inscripto;27253295983;Administración;Clientes Cta Cte
+1766; COMPAÑIA TSB S A;Responsable Inscripto;30707810927;Vendedor;Clientes Cta Cte Empresas
+1792; CATERINO OSVALDO;Responsable Inscripto;20078403765;Vendedor;Clientes Cta Cte Empresas
+1800;TRANSPORTADORA DE GAS DEL NORTE SA;Responsable Inscripto;30657863056;Vendedor;Clientes Cta Cte Empresas
+2011;ALDECOA MARIA LIDA MIRYAM;Responsable Inscripto;27039324267;Administración;Clientes Cta Cte
+2061;SUPERCHEF SAS;Responsable Inscripto;30716631121;Administración;Clientes Cta Cte Empresas
+2062;NIEVES DEL CERRO;Responsable Inscripto;30716924471;Administración;Clientes Cta Cte
+3009; SEGPRO SRL;Responsable Inscripto;30708512547;Vendedor;Clientes Cta Cte Empresas
+3011;SIGA SRL;Responsable Inscripto;30717871983;Administración;Clientes Cta Cte Empresas
+3041;PETROMARK SRL;Responsable Inscripto;30714220507;Vendedor;Clientes Cta Cte Empresas
+3104;CANZIANI SRL;Responsable Inscripto;30697881308;Vendedor;Clientes Cta Cte
+3106;WELLBORE PETROL SERVICES S.R.L.;Responsable Inscripto;30711603847;Vendedor;Clientes Cta Cte Empresas
+3180;JURE DANIEL OMAR ;Responsable Inscripto;20246598348;Administración;Clientes Cta Cte
+3193;SACDE SOCIEDAD ARGENTINA DE CONSTRUCCION Y DESARRO;Responsable Inscripto;30568457451;Vendedor;Clientes Cta Cte Empresas
+3224;QR OIL PRODUCTS S. A. S;Responsable Inscripto;30718512111;Vendedor;Clientes Cta Cte
+3239;SALVADO HNOS S.A ;Responsable Inscripto;30672654404;Administración;Clientes Cta Cte Empresas
+3251;FERNANDEZ DERLY Y RICARDO ANTONIO;Responsable Inscripto;20138808352;Administración;Clientes Cta Cte
+3258;V.B.S. S.A.S.;Responsable Inscripto;30717339203;Vendedor;Clientes Cta Cte Empresas
+3312;Vilchez Pedro David;Responsable Inscripto;20381015891;Vendedor;Clientes Cta Cte
+3355;HERRERA JOSE MARIA;Responsable Inscripto;20206618761;Vendedor;Clientes Cta Cte Empresas
+3361;IMCO S A;Responsable Inscripto;30629674264;Vendedor;Clientes Cta Cte
+3363;FMC TECHNOLOGIES ARGENTINA SRL;Responsable Inscripto;30504497697;Vendedor;Clientes Cta Cte Empresas
+3370;Stream flo SAS;Responsable Inscripto;30715884654;Vendedor;Clientes Cta Cte Empresas
+3371;INGENIERIA TERRA S.A.;Responsable Inscripto;30707425950;Vendedor;Clientes Cta Cte Empresas
+3375;SULLAIR ARGENTINA S.A.;Responsable Inscripto;30576721710;Vendedor;Clientes Cta Cte Empresas
+3377;GESTION AMBIENTAL PETROLERA S A;Responsable Inscripto;30708909404;Vendedor;Clientes Cta Cte Empresas
+3378;RL OILFIELD SOLUTIONS S.R.L.;Responsable Inscripto;30717340627;Vendedor;Clientes Cta Cte Empresas
+3379;MAUI S. R. L. EN FORMACION;Responsable Inscripto;30717272079;Vendedor;Clientes Cta Cte Empresas
+10025; INGENIERIA SIMA S A;Responsable Inscripto;30556987846;Vendedor;Clientes Cta Cte Empresas
+3383;SCANTAMBURLO DANTE EDUARDO;Responsable Inscripto;20120663888;Administración;Clientes Cta Cte
+10123; BILBAO PEREYRA LEONARDO NARCISO ;Responsable Inscripto;20254769968;Vendedor;Clientes Cta Cte
+3386;INSTALACIONES COMERCIALES SRL;Responsable Inscripto;30708123656;Administración;Clientes Cta Cte Empresas
+10166;GRUPO HORIZONTE SRL ;Responsable Inscripto;30709694363;Vendedor;Clientes Cta Cte Empresas
+3389;BRAMIX S.R.L.;Responsable Inscripto;30715115464;Administración;Clientes Cta Cte
+3390;CATERINO HNOS S.R.L.;Responsable Inscripto;30717520951;Vendedor;Clientes Cta Cte
+3394;TRANSPORTADORA DE GAS DEL SUR S.A;Responsable Inscripto;30657862068;Vendedor;Clientes Cta Cte Empresas
+3395;SAKURA S.A ;Responsable Inscripto;30709477257;Administración;Clientes Cta Cte Empresas
+3396;BELONA PRIETTO S.R.L ;Responsable Inscripto;30716202204;Vendedor;Clientes Cta Cte Empresas
+3398;FILIBERTI FLAVIA ELEONORA;Responsable Inscripto;27285187856;Administración;Clientes Cta Cte
+3402;CONURBANO DISTRIBUCION S.A;Responsable Inscripto;30710422946;Vendedor;Clientes Cta Cte
+3404;INGENIA GRUPO CONTRUCTORA S.A.;Responsable Inscripto;30708565101;Vendedor;Clientes Cta Cte Empresas
+3409; EQUIPADOS SAS;Responsable Inscripto;30717049256;Vendedor;Clientes Cta Cte Empresas
+3421;GRUPO SUR SRL;Responsable Inscripto;30708123265;Vendedor;Clientes Cta Cte Empresas
